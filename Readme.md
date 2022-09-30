@@ -8,7 +8,7 @@ Project-4
 
 ![](https://img.shields.io/badge/Rishu%20srivastava-BCA-orange)
 
-# **Project-4** [Live Link]
+# **Project-4** [Live Link](https://ineuronjsproject4.netlify.app/)
  >- Skills gained in this project
  >- Learned about dom manipulation
  >- learned about Math.floor and Math.random
